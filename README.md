@@ -25,7 +25,7 @@
 
 **Literature gaps confirmed via:**  
 - Connected Papers graph (no matches for "e-commerce + multimodal + temporal")  
-- Google Scholar alerts (last checked: DD/MM/YYYY)  
+- Google Scholar alerts (last checked: 31-July-2025)  
 
 ---
 
